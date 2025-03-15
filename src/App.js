@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import BasicPartsQuotationSystem from './BasicPartsQuotationSystem';
+import ImprovedPartsQuotationSystem from './ImprovedPartsQuotationSystem';
 
 function App() {
   return (
@@ -9,7 +9,7 @@ function App() {
         <h1>船用配件报价系统</h1>
       </header>
       <main>
-        <BasicPartsQuotationSystem />
+        <ImprovedPartsQuotationSystem />
       </main>
     </div>
   );
